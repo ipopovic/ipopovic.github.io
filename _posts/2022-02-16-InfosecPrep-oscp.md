@@ -8,11 +8,9 @@ gh-badge:
   - fork
   - follow
 tags:
- - Nmap 
- - ssh
- - SUID
- - privesc
-comments: false
+ - Cyber Security 
+
+comments: true
 published: true
 date: '2022-02-16'
 ---
