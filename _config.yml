@@ -8,8 +8,8 @@ url: "https://h4k.se/" # for test: remove string 'http://victorvoid.github.io' t
 username: h4k
 user_title: H4K
 email: root@h4k.se
-twitter_username: i_popovic
-github_username:  ipopovic
+twitter_username: 
+github_username:  
 profile_picture: https://h4k.se/img/h4k-big1.png
 
 # Build settings
