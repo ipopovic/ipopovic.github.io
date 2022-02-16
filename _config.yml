@@ -5,7 +5,7 @@ baseurl: "/"
 url: "https://ipopovic.github.io" 
 
 # User settings
-username: h4k
+username: H4K - Cyber Security Researchers
 user_title: H4K
 email: root@h4k.se
 twitter_username: 
@@ -36,6 +36,9 @@ links:
     - title: tags
       url: /tags
       key_trigger: 3
+    - title: About Us
+      url: /about
+      key_trigger: 4
 
 # projects in header index
 projects:
