@@ -1,8 +1,8 @@
 # Site settings
 title: H4K
 description: "root@h4k.se:~#"
-baseurl: "/" # for test: remove string '/space-jekyll-template' to ''
-url: "https://h4k.se/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
+baseurl: "/" 
+url: "https://h4k.se/" 
 
 # User settings
 username: h4k
@@ -10,7 +10,7 @@ user_title: H4K
 email: root@h4k.se
 twitter_username: 
 github_username:  
-profile_picture: https://h4k.se/img/h4k-big1.png
+profile_picture: http://it.h4k.se/h4k-big1.png
 
 # Build settings
 markdown: kramdown
