@@ -36,9 +36,12 @@ links:
     - title: tags
       url: /tags
       key_trigger: 3
-    - title: About Us
-      url: /about
+    - title: Services
+      url: /services
       key_trigger: 4
+    - title: About
+      url: /about
+      key_trigger: 5
 
 # projects in header index
 projects:

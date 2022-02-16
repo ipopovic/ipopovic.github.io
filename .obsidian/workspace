@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "9985bc35d4763e4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a66a37fbebaedfa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2022-02-16-InfosecPrep-oscp.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce4a4075cc80d0d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "089b2e5b301d918b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf443dec64c9dc0e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9351edac0c5e220f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e7796e574fcafd37",
+    "type": "split",
+    "children": [
+      {
+        "id": "88c7007eacb002cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d81d686c882e4b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2022-02-16-InfosecPrep-oscp.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3a66a37fbebaedfa",
+  "lastOpenFiles": [
+    "_posts/2022-02-16-InfosecPrep-oscp.md",
+    "_posts/2020-12-13-remote-ntlm-relaying.md",
+    "_posts/2021-06-26-kali-ootb.md",
+    "_posts/2021-08-27-DnD-Spoofing.md",
+    "_posts/2021-08-29-DnD-LSASS-Injection.md"
+  ]
+}
